@@ -124,7 +124,3 @@ Proyek ini menggunakan metode evaluasi standar IR:
 ---
 
 _Dibuat untuk memenuhi tugas Mata Kuliah Web & Text Mining._
-
-```
-
-```
