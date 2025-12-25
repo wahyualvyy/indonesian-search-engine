@@ -117,13 +117,13 @@ Proyek ini menggunakan metode evaluasi standar IR:
 
 **Tugas Search Engine - Kelompok [Masukkan Nomor Kelompok]**
 
-- Anggota 1: [Nama Anda]
-- Anggota 2: [Nama Teman]
-- Anggota 3: [Nama Teman]
+- Anggota 1: [Mochammad Wahyu Alvy Kusuma]
+- Anggota 2: [Luluk Asti Qomariah]
+- Anggota 3: [M. Hafizh Fattah]
 
 ---
 
-_Dibuat untuk memenuhi tugas Mata Kuliah Information Retrieval._
+_Dibuat untuk memenuhi tugas Mata Kuliah Web & Text Mining._
 
 ```
 
